@@ -1,0 +1,11 @@
+C:\Users\Vi\source\repos\KarnOMap\bin\Debug\KarnOMap.exe.config
+C:\Users\Vi\source\repos\KarnOMap\bin\Debug\KarnOMap.exe
+C:\Users\Vi\source\repos\KarnOMap\bin\Debug\KarnOMap.pdb
+C:\Users\Vi\source\repos\KarnOMap\obj\Debug\KarnOMap.csprojAssemblyReference.cache
+C:\Users\Vi\source\repos\KarnOMap\obj\Debug\KarnOMap.Form1.resources
+C:\Users\Vi\source\repos\KarnOMap\obj\Debug\KarnOMap.Form2.resources
+C:\Users\Vi\source\repos\KarnOMap\obj\Debug\KarnOMap.Properties.Resources.resources
+C:\Users\Vi\source\repos\KarnOMap\obj\Debug\KarnOMap.csproj.GenerateResource.cache
+C:\Users\Vi\source\repos\KarnOMap\obj\Debug\KarnOMap.csproj.CoreCompileInputs.cache
+C:\Users\Vi\source\repos\KarnOMap\obj\Debug\KarnOMap.exe
+C:\Users\Vi\source\repos\KarnOMap\obj\Debug\KarnOMap.pdb
